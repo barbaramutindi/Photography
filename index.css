@@ -8,10 +8,11 @@ h2{
 h3{
     color:#003638;
 }
-body{
+html{
     background-image:url('./Images/lion.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position:50% 50%;
 }
 *{
     text-align: center;
