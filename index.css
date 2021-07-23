@@ -10,3 +10,8 @@ h3{
 html{
     background-color: darkcyan;
 }
+body{
+    background-image:url('./Images/lion.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
